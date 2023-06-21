@@ -35,3 +35,6 @@ Skyrage/Fractureiser Remover (SkyRev) is a Python script that scans and updates 
 ## Issues and Feedback
 
 Please report any issues you encounter at [GitHub Issues](https://github.com/wokonly/skyrev/issues). You can also join the Discord server for feedback and assistance at [Discord](https://discord.gg/VAx9qUsfhw).
+
+## Preview
+https://streamable.com/lqd5xe
