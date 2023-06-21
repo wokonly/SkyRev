@@ -6,10 +6,9 @@ Skyrage/Fractureiser Remover (SkyRev) is a Python script that scans and updates 
 
 ## Features
 
-- Scans a directory for JAR files
-- Checks if the 'javassist' directory exists in the JAR files
-- Removes the 'javassist' directory from the infected JAR files
-- Creates new clean versions of the JAR files without the 'javassist' directory
+- Scans JAR files for the virus "Skyrage"
+- Removes anything found to be malicious inside the JAR file
+- Removes 'Javassist' and 'MainL10.class' files
 
 ## Prerequisites
 
